@@ -1,0 +1,287 @@
+[{
+  "_id": {
+    "$oid": "5f96db118a0f215cc014a96a"
+  },
+  "cards": [
+    "5f9fc3ca4f2cb3300c7eb42d",
+    "5f9fc2fc4f2cb3300c7eb42c",
+    "5f9fc29e4f2cb3300c7eb42b",
+    "5f9fbf734f2cb3300c7eb427"
+  ],
+  "name": "Avi Cohen",
+  "email": "avi@gmail.com",
+  "password": "$2b$10$p6VQHrXrSRyOY/jWBa0zHOzwkyIKZFhw9TH0nCnaA4chD4VJemzhO",
+  "biz": false,
+  "createdAt": {
+    "$date": "2020-10-26T14:20:01.740Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f96de698a0f215cc014a96b"
+  },
+  "cards": [
+    "5f9ebc194f2cb3300c7eb425",
+    "5fa3ba0a4f2cb3300c7eb42e",
+    "5f9e84c840220d2f54476388",
+    "5f99bfd9c48cba37d02406de",
+    "5fb3bb3883481961d84ba72d"
+  ],
+  "name": "Vered Biton",
+  "email": "vered@gmail.com",
+  "password": "$2b$10$1rrYax/o9jD9vtMGUZzxNeMX8InOaq14GYRuLs5cmmTxOJpyQPW/W",
+  "biz": true,
+  "createdAt": {
+    "$date": "2020-10-26T14:34:17.066Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f96e0458a0f215cc014a96c"
+  },
+  "cards": [
+    "5f9fc2fc4f2cb3300c7eb42c",
+    "5f9fc0ba4f2cb3300c7eb428",
+    "5f9fc29e4f2cb3300c7eb42b"
+  ],
+  "name": "Shimi Levi",
+  "email": "shimi@gmail.com",
+  "password": "$2b$10$5R/cAG73rcwgYdvfIaA1bOtrdexz3ONfI3oYPlZRV6lSGEOjNU0Xy",
+  "biz": false,
+  "createdAt": {
+    "$date": "2020-10-26T14:42:13.710Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f96e0da8a0f215cc014a96d"
+  },
+  "cards": [],
+  "name": "Orly Israeli",
+  "email": "orly@gmail.com",
+  "password": "$2b$10$pULY.RowCxlQKOrrLiuVSucX7K04TsB1FqQNO80wjDUEf2S6wn6Q6",
+  "biz": false,
+  "createdAt": {
+    "$date": "2020-10-26T14:44:42.004Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f96ef068a0f215cc014a96f"
+  },
+  "cards": [],
+  "name": "Dvora Yarkoni",
+  "email": "dvora@gmail.com",
+  "password": "$2b$10$OLB/ZByRJpLSEuQPMw05M.Ntt62sLVXr40mzbr/kfyNA/tguO0jhK",
+  "biz": false,
+  "createdAt": {
+    "$date": "2020-10-26T15:45:10.404Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f96f2578a0f215cc014a970"
+  },
+  "cards": [],
+  "name": "Merav Yadid",
+  "email": "merav@gmail.com",
+  "password": "$2b$10$5FoFnlBQDQ57rJb33Vrlg.OHrwA1oC1HqLGDmqf12whMHZqLsGRH6",
+  "biz": false,
+  "createdAt": {
+    "$date": "2020-10-26T15:59:19.263Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f96f2c58a0f215cc014a971"
+  },
+  "cards": [],
+  "name": "Johana Berger",
+  "email": "johana@gmail.com",
+  "password": "$2b$10$dpA5aDisAmyoJwsi2B7xCOubdW2pBsN63jAtyusSQ6yscL6CpAmEa",
+  "biz": false,
+  "createdAt": {
+    "$date": "2020-10-26T16:01:09.998Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f97df9b8a0f215cc014a973"
+  },
+  "cards": [],
+  "name": "Zinadin Zidanne",
+  "email": "zinadin@gmail.com",
+  "password": "$2b$10$tx5AoSzatR7AeNy8cjwlSOv1ZzGuuU1KhZJkQ1Rs.QuMbNpOa21ei",
+  "biz": false,
+  "createdAt": {
+    "$date": "2020-10-27T08:51:39.254Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f997a3bc48cba37d02406da"
+  },
+  "cards": [
+    "5fa3f3ba153cf64f68900ab3",
+    "5f9fbb2c4f2cb3300c7eb426",
+    "5f9fc0ba4f2cb3300c7eb428"
+  ],
+  "name": "Dani Morag",
+  "email": "dani3@gmail.com",
+  "password": "$2b$10$RgwmshN9Sem06R/RkbqKTOTrQExbD7U4vOsHvSd4ESTOyEpoBYb/O",
+  "biz": true,
+  "createdAt": {
+    "$date": "2020-10-28T14:03:39.027Z"
+  },
+  "__v": 13
+},{
+  "_id": {
+    "$oid": "5f998534c48cba37d02406db"
+  },
+  "cards": [],
+  "name": "Haim Hovalot",
+  "email": "haim@gmail.com",
+  "password": "$2b$10$ABUH/HXQo7s4vS3YqgCBc.X/a.nIzJWJuTdSE7pI2toDxe3KrTzVu",
+  "biz": true,
+  "createdAt": {
+    "$date": "2020-10-28T14:50:28.142Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9992e5c48cba37d02406dc"
+  },
+  "cards": [
+    "5fb3bb3883481961d84ba72d",
+    "5fb0e77827e41a4b640f25cd",
+    "5fb5263a83481961d84ba735",
+    "5fbce8699ead3728b0d6a91f"
+  ],
+  "name": "Eli Hasaot",
+  "email": "eli@gmail.com",
+  "password": "$2b$10$TmZQlZEtJ6R2kmvbdSiIw.fmP9bT7Ti3fD1Llmn8XKPoCSqGh/aGW",
+  "biz": true,
+  "createdAt": {
+    "$date": "2020-10-28T15:48:53.660Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f99befac48cba37d02406dd"
+  },
+  "cards": [
+    "5fb3bb3883481961d84ba72d",
+    "5fb3d7e483481961d84ba72f",
+    "5fb5257083481961d84ba734"
+  ],
+  "name": "John Doe",
+  "email": "john@gmail.com",
+  "password": "$2b$10$p5sE82AHmbR97uVhvg.vMetkn.yfXhDtCf2XjywE/rKPDAYydOJiy",
+  "biz": true,
+  "createdAt": {
+    "$date": "2020-10-28T18:56:58.143Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9a8b0040220d2f54476380"
+  },
+  "cards": [],
+  "name": "Sharon Hovalot Ltd.",
+  "email": "sharon@gmail.com",
+  "password": "$2b$10$9wxWohv9BU6D9aWGPjIzaemBnnS5apfO.AYgFKW4TDGJCRpCvTHSy",
+  "biz": true,
+  "createdAt": {
+    "$date": "2020-10-29T09:27:28.053Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9fc20c4f2cb3300c7eb429"
+  },
+  "cards": [],
+  "name": "Yoav Shemer",
+  "email": "yoav@gmail.com",
+  "password": "$2b$10$xQyvgDis2WvfOM7tLB7gOOhjo2.pJeP80KafAHp7KksYA97mVZclm",
+  "biz": false,
+  "createdAt": {
+    "$date": "2020-11-02T08:23:40.701Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9fc23c4f2cb3300c7eb42a"
+  },
+  "cards": [],
+  "name": "Oren Ron",
+  "email": "oren@gmail.com",
+  "password": "$2b$10$DYnanl0hDdBzIcmKDVwc6uulqAywDbe0D5ivFSKHK9jw1FV7qCLoG",
+  "biz": true,
+  "createdAt": {
+    "$date": "2020-11-02T08:24:28.523Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fad3996bc9da02ad0041f0c"
+  },
+  "cards": [
+    "5fad3bbbbc9da02ad0041f0d",
+    "5fad5da90d3de61c48ae1337",
+    "5fb0e77827e41a4b640f25cd",
+    "5fbce8699ead3728b0d6a91f",
+    "5fbb8fee9ead3728b0d6a91e"
+  ],
+  "name": "Moshe Yoeli",
+  "email": "moshiko@gmail.com",
+  "password": "$2b$10$jC86uQC13j1awYC6W51BZeUk/k1B9qiKa9BNds.x0FE8B0srPIrpi",
+  "biz": true,
+  "createdAt": {
+    "$date": "2020-11-12T13:33:10.514Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb7f81e9ead3728b0d6a91b"
+  },
+  "cards": [
+    "5fb7f89f9ead3728b0d6a91c",
+    "5fb5263a83481961d84ba735"
+  ],
+  "name": "Maayan Morag",
+  "email": "maayan.morag@gmail.com",
+  "password": "$2b$10$i9d2NJXmDUdPehd9tCyQEe0k.vJzTSqqy774Y5Wrz1eVA.tpZb0se",
+  "biz": true,
+  "createdAt": {
+    "$date": "2020-11-20T17:08:46.724Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb7fb3f9ead3728b0d6a91d"
+  },
+  "cards": [
+    "5fb527c083481961d84ba737"
+  ],
+  "name": "Adi Morag",
+  "email": "adimorag412@gmail.com",
+  "password": "$2b$10$4Mk56NxAdPt5MXU3UglzBuXzU1eVPfGf1iYDyFlDkQEWkrFkoXkFG",
+  "biz": true,
+  "createdAt": {
+    "$date": "2020-11-20T17:22:07.009Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fbf7dfb67eed444cc26e61a"
+  },
+  "cards": [],
+  "name": "Yossi Aharonov",
+  "email": "yossi@gmail.com",
+  "password": "$2b$10$rOH2FfJcpQBtZcsa/vMjoeGUuLWF27qrfae6cdQmC7pnYdWDNpIDK",
+  "biz": true,
+  "createdAt": {
+    "$date": "2020-11-26T10:05:47.790Z"
+  },
+  "__v": 0
+}]

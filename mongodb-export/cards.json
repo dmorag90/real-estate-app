@@ -1,0 +1,438 @@
+[{
+  "_id": {
+    "$oid": "5fb0e77827e41a4b640f25cd"
+  },
+  "bizName": "Department in Elm street 16",
+  "bizOffer": "For Sale",
+  "bizDescription": "Great Penthouse",
+  "bizType": "Penthouse",
+  "bizArea": 220,
+  "bizRooms": 7,
+  "bizPrice": 1500000,
+  "bizAddress": "Kefar Sava",
+  "bizPhone": "0524223423",
+  "bizImage": "https://cdn.pixabay.com/photo/2020/02/03/21/29/girl-4816734_1280.jpg",
+  "bizNumber": "660989",
+  "user_id": {
+    "$oid": "5fad3996bc9da02ad0041f0c"
+  },
+  "createdAt": {
+    "$date": "2020-11-15T08:31:52.595Z"
+  },
+  "__v": 0,
+  "bizPublisher": "Dani Morag"
+},{
+  "_id": {
+    "$oid": "5fb3cd5e83481961d84ba72e"
+  },
+  "createdAt": {
+    "$date": "2020-11-15T10:04:54.287Z"
+  },
+  "bizName": "Vered house",
+  "bizOffer": "For Sale",
+  "bizDescription": "Private and beautiful",
+  "bizType": "Private house",
+  "bizArea": 160,
+  "bizRooms": 4.5,
+  "bizPrice": 500000,
+  "bizAddress": "Metula",
+  "bizPhone": "049475454",
+  "bizPublisher": "Vered",
+  "bizImage": "https://cdn.pixabay.com/photo/2013/07/13/12/48/cottage-160367__340.png",
+  "bizNumber": "63970",
+  "user_id": {
+    "$oid": "5f96de698a0f215cc014a96b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb3d7e483481961d84ba72f"
+  },
+  "createdAt": {
+    "$date": "2020-11-15T10:04:54.287Z"
+  },
+  "bizName": "Vered Apartment ",
+  "bizOffer": "For Sale",
+  "bizDescription": "Great apartment with view to the park",
+  "bizType": "Apartment",
+  "bizArea": 80,
+  "bizRooms": 3,
+  "bizPrice": 150000,
+  "bizAddress": "Ramat Gan",
+  "bizPhone": "0345859285",
+  "bizPublisher": "Vered the greatest",
+  "bizImage": "https://cdn.pixabay.com/photo/2013/07/13/12/48/cottage-160367__340.png",
+  "bizNumber": "171121",
+  "user_id": {
+    "$oid": "5f96de698a0f215cc014a96b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb5226783481961d84ba730"
+  },
+  "createdAt": {
+    "$date": "2020-11-15T10:04:54.287Z"
+  },
+  "bizName": "The house of Haim Begin street 23",
+  "bizOffer": "For Rent",
+  "bizDescription": "This apartment needs renovation, yet has a potential",
+  "bizType": "Apartment",
+  "bizArea": 90,
+  "bizRooms": 3.5,
+  "bizPrice": 1500,
+  "bizAddress": "Dimona",
+  "bizPhone": "0703496849",
+  "bizPublisher": "Haim ",
+  "bizImage": "https://cdn.pixabay.com/photo/2013/07/13/12/48/cottage-160367__340.png",
+  "bizNumber": "638543",
+  "user_id": {
+    "$oid": "5f998534c48cba37d02406db"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb5233a83481961d84ba731"
+  },
+  "createdAt": {
+    "$date": "2020-11-15T10:04:54.287Z"
+  },
+  "bizName": "Empty lot for sale in Ramat Hasharon",
+  "bizOffer": "For Sale",
+  "bizDescription": "Located at the western side of Ramat Hasharon, ready for building",
+  "bizType": "Empty Lot",
+  "bizArea": 450,
+  "bizRooms": 1,
+  "bizPrice": 750000,
+  "bizAddress": "Ramat HaSharon",
+  "bizPhone": "050420294",
+  "bizPublisher": "Haim",
+  "bizImage": "https://media.istockphoto.com/photos/inner-city-decay-picture-id462772867?s=2048x2048",
+  "bizNumber": "164784",
+  "user_id": {
+    "$oid": "5f998534c48cba37d02406db"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb5246783481961d84ba732"
+  },
+  "createdAt": {
+    "$date": "2020-11-15T10:04:54.287Z"
+  },
+  "bizName": "Gefen 9 street, Kiriat Motskin",
+  "bizOffer": "For Sale",
+  "bizDescription": "Quiet, comfortable, no elevator, 3rd floor",
+  "bizType": "Apartment",
+  "bizArea": 110,
+  "bizRooms": 5,
+  "bizPrice": 300000,
+  "bizAddress": "Qiryat Motzkin",
+  "bizPhone": "045494842",
+  "bizPublisher": "Eli",
+  "bizImage": "https://cdn.pixabay.com/photo/2016/09/22/11/55/kitchen-1687121_1280.jpg",
+  "bizNumber": "925481",
+  "user_id": {
+    "$oid": "5f9992e5c48cba37d02406dc"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb524f783481961d84ba733"
+  },
+  "createdAt": {
+    "$date": "2020-11-15T10:04:54.287Z"
+  },
+  "bizName": "Jabotinski 76, Carmiel",
+  "bizOffer": "For Sale",
+  "bizDescription": "Brand new apartment, at a new neighborhood, airconditioned",
+  "bizType": "Apartment",
+  "bizArea": 120,
+  "bizRooms": 4.5,
+  "bizPrice": 190000,
+  "bizAddress": "Karmi'el",
+  "bizPhone": "0423249389",
+  "bizPublisher": "Eli ",
+  "bizImage": "https://cdn.pixabay.com/photo/2018/01/26/08/15/dining-room-3108037_1280.jpg",
+  "bizNumber": "86917",
+  "user_id": {
+    "$oid": "5f9992e5c48cba37d02406dc"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb5257083481961d84ba734"
+  },
+  "createdAt": {
+    "$date": "2020-11-15T10:04:54.287Z"
+  },
+  "bizName": "Hmaalot street, 34 Afula",
+  "bizOffer": "For Sale",
+  "bizDescription": "A new apartment, improved and renovated",
+  "bizType": "Duplex",
+  "bizArea": 165,
+  "bizRooms": 6.5,
+  "bizPrice": 350000,
+  "bizAddress": "Afula",
+  "bizPhone": "0439345453",
+  "bizPublisher": "Eli",
+  "bizImage": "https://cdn.pixabay.com/photo/2014/07/31/21/41/apartment-406901_1280.jpg",
+  "bizNumber": "623955",
+  "user_id": {
+    "$oid": "5f9992e5c48cba37d02406dc"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb5263a83481961d84ba735"
+  },
+  "createdAt": {
+    "$date": "2020-11-15T10:04:54.287Z"
+  },
+  "bizName": "Habaron street 330, Zichron",
+  "bizOffer": "For Sale",
+  "bizDescription": "A dual family house, beautiful view to the sea",
+  "bizType": "Two Family House",
+  "bizArea": 190,
+  "bizRooms": 7,
+  "bizPrice": 950000,
+  "bizAddress": "Zikhron Ya'aqov",
+  "bizPhone": "0498472342",
+  "bizPublisher": "Eli",
+  "bizImage": "https://cdn.pixabay.com/photo/2016/11/29/03/53/architecture-1867187_1280.jpg",
+  "bizNumber": "201663",
+  "user_id": {
+    "$oid": "5f9992e5c48cba37d02406dc"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb526fa83481961d84ba736"
+  },
+  "createdAt": {
+    "$date": "2020-11-15T10:04:54.287Z"
+  },
+  "bizName": "Studio apartment in Tel Aviv",
+  "bizOffer": "For Rent",
+  "bizDescription": "Located at the center, on the roof",
+  "bizType": "Studio",
+  "bizArea": 35,
+  "bizRooms": 1.5,
+  "bizPrice": 1200,
+  "bizAddress": "Tel Aviv - Yafo",
+  "bizPhone": "0343982342",
+  "bizPublisher": "Eli",
+  "bizImage": "https://media.istockphoto.com/photos/small-office-interior-with-projector-screen-picture-id1198981746?s=2048x2048",
+  "bizNumber": "162961",
+  "user_id": {
+    "$oid": "5f9992e5c48cba37d02406dc"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb527c083481961d84ba737"
+  },
+  "createdAt": {
+    "$date": "2020-11-15T10:04:54.287Z"
+  },
+  "bizName": "Hazait 5, Givataim",
+  "bizOffer": "For Rent",
+  "bizDescription": "Renovated, close to the city center, bust station to all directions nearby",
+  "bizType": "Apartment",
+  "bizArea": 60,
+  "bizRooms": 2.5,
+  "bizPrice": 1000,
+  "bizAddress": "Giv'atayim",
+  "bizPhone": "0780345324",
+  "bizPublisher": "John Doe",
+  "bizImage": "https://cdn.pixabay.com/photo/2019/12/17/04/52/lounge-4700728_1280.jpg",
+  "bizNumber": "950153",
+  "user_id": {
+    "$oid": "5f99befac48cba37d02406dd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb5287883481961d84ba738"
+  },
+  "createdAt": {
+    "$date": "2020-11-15T10:04:54.287Z"
+  },
+  "bizName": "Hashalom road, 245 Tel Aviv",
+  "bizOffer": "For Rent",
+  "bizDescription": "Close to train station, airconditioned, on the main road",
+  "bizType": "Apartment",
+  "bizArea": 110,
+  "bizRooms": 4,
+  "bizPrice": 1200,
+  "bizAddress": "Tel Aviv - Yafo",
+  "bizPhone": "0542892010",
+  "bizPublisher": "John Doe",
+  "bizImage": "https://cdn.pixabay.com/photo/2014/07/10/17/17/bedroom-389254_1280.jpg",
+  "bizNumber": "308755",
+  "user_id": {
+    "$oid": "5f99befac48cba37d02406dd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb5292a83481961d84ba739"
+  },
+  "createdAt": {
+    "$date": "2020-11-15T10:04:54.287Z"
+  },
+  "bizName": "Hamaagal 14, Givatayim",
+  "bizOffer": "For Rent",
+  "bizDescription": "Very improved, for serious people only!!!",
+  "bizType": "Penthouse",
+  "bizArea": 220,
+  "bizRooms": 8,
+  "bizPrice": 5000,
+  "bizAddress": "Giv'atayim",
+  "bizPhone": "0520348345",
+  "bizPublisher": "John the snake",
+  "bizImage": "https://cdn.pixabay.com/photo/2016/09/25/22/19/home-1694746_1280.jpg",
+  "bizNumber": "151391",
+  "user_id": {
+    "$oid": "5f99befac48cba37d02406dd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb529bc83481961d84ba73a"
+  },
+  "createdAt": {
+    "$date": "2020-11-15T10:04:54.287Z"
+  },
+  "bizName": "Ha'Kishor 45 street, Bat Yam",
+  "bizOffer": "For Rent",
+  "bizDescription": "An old warehouse, needs renovation, may be used for long period",
+  "bizType": "Warehouse",
+  "bizArea": 450,
+  "bizRooms": 2,
+  "bizPrice": 10000,
+  "bizAddress": "Bat Yam",
+  "bizPhone": "0345349534",
+  "bizPublisher": "John the builder",
+  "bizImage": "https://cdn.pixabay.com/photo/2016/09/04/09/56/lost-places-1643564_1280.jpg",
+  "bizNumber": "154620",
+  "user_id": {
+    "$oid": "5f99befac48cba37d02406dd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb7f89f9ead3728b0d6a91c"
+  },
+  "createdAt": {
+    "$date": "2020-11-19T08:42:47.893Z"
+  },
+  "bizName": "Miriam Hanevia 19, Rosh Haayin",
+  "bizOffer": "For Rent",
+  "bizDescription": "3 rooms apartment, brand new from the constructor, air conditioned",
+  "bizType": "Apartment",
+  "bizArea": 79,
+  "bizRooms": 3,
+  "bizPrice": 1300,
+  "bizAddress": "Rosh HaAyin",
+  "bizPhone": "0546203457",
+  "bizPublisher": "Maayan",
+  "bizImage": "https://cdn.pixabay.com/photo/2013/07/13/12/48/cottage-160367__340.png",
+  "bizNumber": "707230",
+  "user_id": {
+    "$oid": "5fb7f81e9ead3728b0d6a91b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fbb8fee9ead3728b0d6a91e"
+  },
+  "createdAt": {
+    "$date": "2020-11-19T08:42:47.893Z"
+  },
+  "bizName": "Ben Gurion 57, Tel Aviv",
+  "bizOffer": "For Rent",
+  "bizDescription": "A studio apartment on the roof, close to everything",
+  "bizType": "Studio",
+  "bizArea": 15,
+  "bizRooms": 1,
+  "bizPrice": 500,
+  "bizAddress": "Tel Aviv - Yafo",
+  "bizPhone": "0349486949",
+  "bizPublisher": "Adi",
+  "bizImage": "https://cdn.pixabay.com/photo/2013/07/13/12/48/cottage-160367__340.png",
+  "bizNumber": "966672",
+  "user_id": {
+    "$oid": "5fb7fb3f9ead3728b0d6a91d"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fbce8699ead3728b0d6a91f"
+  },
+  "createdAt": {
+    "$date": "2020-11-19T08:42:47.893Z"
+  },
+  "bizName": "HaOren 12 Sde Varburg",
+  "bizOffer": "Sublet",
+  "bizDescription": "A house with a garden, replacing one partner of three from January 2021",
+  "bizType": "Private house",
+  "bizArea": 150,
+  "bizRooms": 5,
+  "bizPrice": 350,
+  "bizAddress": "Sede Warburg",
+  "bizPhone": "052348495",
+  "bizPublisher": "Sharon",
+  "bizImage": "https://cdn.pixabay.com/photo/2017/03/14/10/08/single-family-home-2142476_960_720.jpg",
+  "bizNumber": "221710",
+  "user_id": {
+    "$oid": "5f9a8b0040220d2f54476380"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fbce92f9ead3728b0d6a920"
+  },
+  "createdAt": {
+    "$date": "2020-11-19T08:42:47.893Z"
+  },
+  "bizName": "Neomi Shemer 45 Kfar Saba",
+  "bizOffer": "For Rent",
+  "bizDescription": "Apartment on the 5th floor of a building on the main street. Pretty and quiet.",
+  "bizType": "Apartment",
+  "bizArea": 135,
+  "bizRooms": 6,
+  "bizPrice": 2000,
+  "bizAddress": "Kefar Sava",
+  "bizPhone": "0949492243",
+  "bizPublisher": "Oren",
+  "bizImage": "https://media.istockphoto.com/photos/brand-new-empty-modern-design-apartment-for-rental-picture-id1199873461?s=2048x2048",
+  "bizNumber": "76575",
+  "user_id": {
+    "$oid": "5f9fc23c4f2cb3300c7eb42a"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fbf7f1067eed444cc26e61b"
+  },
+  "createdAt": {
+    "$date": "2020-11-24T12:46:50.819Z"
+  },
+  "bizName": "Dizingof 99 Tel Aviv, 3 partners apartment",
+  "bizOffer": "Sublet",
+  "bizDescription": "Third floor, no elevator, come and see Gidi, Meir And Anat",
+  "bizType": "Apartment",
+  "bizArea": 75,
+  "bizRooms": 3,
+  "bizPrice": 350,
+  "bizAddress": "Tel Aviv - Yafo",
+  "bizPhone": "033453453",
+  "bizPublisher": "Yossi",
+  "bizImage": "https://images1.calcalist.co.il/PicServer3/2018/08/22/841619/20180822_105857_002_l.jpg",
+  "bizNumber": "891243",
+  "user_id": {
+    "$oid": "5fbf7dfb67eed444cc26e61a"
+  },
+  "__v": 0
+}]
